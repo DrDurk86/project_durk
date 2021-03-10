@@ -1,0 +1,4 @@
+db.sqlite3
+polls/__pycache__/urls.cpython-38.pyc
+polls/__pycache__/views.cpython-38.pyc
+mysite/secrets_key.py

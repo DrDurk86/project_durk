@@ -7,4 +7,5 @@ mysite/__pycache__/settings.cpython-38.pyc
 mysite/__pycache__/__init__.cpython-38.pyc
 mysite/__pycache__/urls.cpython-38.pyc
 mysite/__pycache__/wsgi.cpython-38.pyc
-polls/__pycache__/
+polls/__pycache__/*
+polls/__pycache__/models.cpython-38.pyc

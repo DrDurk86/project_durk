@@ -1,11 +1,4 @@
 db.sqlite3
-polls/__pycache__/urls.cpython-38.pyc
-polls/__pycache__/views.cpython-38.pyc
 mysite/secrets_key.py
-mysite/__pycache__/secrets_key.cpython-38.pyc
-mysite/__pycache__/settings.cpython-38.pyc
-mysite/__pycache__/__init__.cpython-38.pyc
-mysite/__pycache__/urls.cpython-38.pyc
-mysite/__pycache__/wsgi.cpython-38.pyc
-polls/__pycache__/*
-polls/__pycache__/models.cpython-38.pyc
+**.pyc
+**/__pycache__

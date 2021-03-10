@@ -3,3 +3,4 @@ mysite/secrets_key.py
 *.pyc
 **/__pycache__/
 Activate Project_Durk.bat
+survey_study/
